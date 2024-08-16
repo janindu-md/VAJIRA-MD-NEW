@@ -59,6 +59,7 @@
         "puppeteer": "^22.7.1",
         "qrcode-terminal": "^0.12.0",
         "async-g-i-s": "^1.4.0",
+        "@distube/ytdl-core": "^4.13.5",
         "api-dylux": "latest",
         "xfarr-api": "^1.0.2",
         "g-i-s": "^2.1.6",
