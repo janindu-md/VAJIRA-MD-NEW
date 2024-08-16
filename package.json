@@ -39,7 +39,7 @@
         "wa-sticker-formatter": "^4.3.2",
         "got": "^11.8.2",
         "file-type": "^16.5.3",
-        "file_size_url": "^1.0.4",
+        "file_size_url": "1.0.4",
         "sequelize": "^6.28.0",
         "form-data": "^4.0.0",
         "moment-timezone": "latest",
